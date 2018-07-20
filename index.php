@@ -1,2 +1,2 @@
 <?php
-
+require 'image.php';
